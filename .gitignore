@@ -5,8 +5,26 @@
 
 # Compiled Dynamic libraries
 *.so
+*.dylib
 
 # Compiled Static libraries
 *.lai
 *.la
 *.a
+
+# ./configure generated files
+Makefile
+gecode/support/config.hpp
+doxygen.conf
+doxygen.hh
+config.log
+config.status
+
+# generated source
+gecode/gist/moc_*
+
+# binaries
+tools/flatzinc/fz
+tools/flatzinc/mzn-gecode
+examples/*
+!examples/*.cpp
