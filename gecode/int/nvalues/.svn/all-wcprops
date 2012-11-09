@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/nvalues
+END
+range-event.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/nvalues/range-event.hpp
+END
+int-eq.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/nvalues/int-eq.hpp
+END
+bool-eq.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/nvalues/bool-eq.hpp
+END
+int-gq.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/nvalues/int-gq.hpp
+END
+bool-gq.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/nvalues/bool-gq.hpp
+END
+graph.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/nvalues/graph.hpp
+END
+int-base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/nvalues/int-base.hpp
+END
+bool-base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/nvalues/bool-base.hpp
+END
+int-lq.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/nvalues/int-lq.hpp
+END
+bool-lq.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/nvalues/bool-lq.hpp
+END
+sym-bit-matrix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/nvalues/sym-bit-matrix.hpp
+END

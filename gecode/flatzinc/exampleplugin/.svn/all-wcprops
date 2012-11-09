@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12605/gecode/tags/release-3.7.3/gecode/flatzinc/exampleplugin
+END
+test_myplugin.fzn
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/flatzinc/exampleplugin/test_myplugin.fzn
+END
+myplugin.hh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/flatzinc/exampleplugin/myplugin.hh
+END
+myplugin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12605/gecode/tags/release-3.7.3/gecode/flatzinc/exampleplugin/myplugin.pro
+END
+myplugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/flatzinc/exampleplugin/myplugin.cpp
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist
+END
+nodecursor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/nodecursor.hh
+END
+spacenode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/spacenode.cpp
+END
+nodestats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/nodestats.cpp
+END
+spacenode.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/spacenode.hpp
+END
+stopbrancher.hh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/stopbrancher.hh
+END
+treecanvas.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/treecanvas.hh
+END
+nodevisitor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/nodevisitor.hpp
+END
+spacenode.hh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/spacenode.hh
+END
+nodevisitor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/nodevisitor.hh
+END
+node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/node.cpp
+END
+nodewidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/nodewidget.cpp
+END
+drawingcursor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/drawingcursor.cpp
+END
+mainwindow.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/mainwindow.hh
+END
+stopbrancher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/stopbrancher.cpp
+END
+node.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/node.hpp
+END
+drawingcursor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/drawingcursor.hpp
+END
+preferences.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/preferences.cpp
+END
+node.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/node.hh
+END
+textoutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/textoutput.cpp
+END
+nodewidget.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/nodewidget.hh
+END
+drawingcursor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/drawingcursor.hh
+END
+gist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/gist.cpp
+END
+gecodelogo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/gecodelogo.cpp
+END
+zoomToFitIcon.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/zoomToFitIcon.hpp
+END
+visualnode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/visualnode.cpp
+END
+qtgist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/qtgist.cpp
+END
+gist.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/gist.hpp
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/mainwindow.cpp
+END
+preferences.hh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/preferences.hh
+END
+visualnode.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/visualnode.hpp
+END
+layoutcursor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/layoutcursor.hpp
+END
+nodestats.hh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/nodestats.hh
+END
+textoutput.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/textoutput.hh
+END
+gecodelogo.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/gecodelogo.hh
+END
+visualnode.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/visualnode.hh
+END
+qtgist.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/qtgist.hh
+END
+layoutcursor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/layoutcursor.hh
+END
+nodecursor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/nodecursor.hpp
+END
+treecanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/gist/treecanvas.cpp
+END

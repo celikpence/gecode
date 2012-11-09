@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/set/var
+END
+set.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/set/var/set.hpp
+END
+print.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/set/var/print.hpp
+END
+set.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/set/var/set.cpp
+END

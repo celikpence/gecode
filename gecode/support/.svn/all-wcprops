@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support
+END
+exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/exception.cpp
+END
+cast.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/cast.hpp
+END
+bitset.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/bitset.hpp
+END
+static-stack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/static-stack.hpp
+END
+exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/exception.hpp
+END
+dynamic-array.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/dynamic-array.hpp
+END
+bitset-base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/bitset-base.hpp
+END
+auto-link.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/auto-link.hpp
+END
+dynamic-queue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/dynamic-queue.hpp
+END
+thread.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/thread.hpp
+END
+heap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/heap.cpp
+END
+block-allocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/block-allocator.hpp
+END
+int-type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/int-type.hpp
+END
+config.hpp.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/config.hpp.in
+END
+heap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/heap.hpp
+END
+random.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/random.hpp
+END
+timer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/timer.hpp
+END
+marked-pointer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/marked-pointer.hpp
+END
+macros.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/macros.hpp
+END
+dynamic-stack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/dynamic-stack.hpp
+END
+sort.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/support/sort.hpp
+END

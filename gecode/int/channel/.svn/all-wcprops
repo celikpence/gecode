@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/channel
+END
+base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/channel/base.hpp
+END
+link-single.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/channel/link-single.hpp
+END
+dom.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/channel/dom.hpp
+END
+link-multi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/channel/link-multi.cpp
+END
+val.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/channel/val.hpp
+END
+link-multi.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/channel/link-multi.hpp
+END
+link-single.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/channel/link-single.cpp
+END

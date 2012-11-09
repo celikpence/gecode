@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int
+END
+distinct.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/distinct.hh
+END
+rel.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/rel.hh
+END
+exec.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/exec.hh
+END
+cumulatives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/cumulatives.cpp
+END
+exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/exception.hpp
+END
+member.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/member.cpp
+END
+bool.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/bool.hh
+END
+sequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/sequence.cpp
+END
+unary.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/unary.hh
+END
+nvalues.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/nvalues.cpp
+END
+dom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/dom.cpp
+END
+view.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/view.hpp
+END
+exec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/exec.cpp
+END
+member.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/member.hh
+END
+val-set.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/val-set.hh
+END
+arithmetic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/arithmetic.cpp
+END
+dom.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/dom.hh
+END
+no-overlap.hh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/no-overlap.hh
+END
+bin-packing.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/bin-packing.hh
+END
+linear-bool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/linear-bool.cpp
+END
+count.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/count.hh
+END
+view-val-graph.hh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/view-val-graph.hh
+END
+extensional.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/extensional.hh
+END
+gcc.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/gcc.hh
+END
+branch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/branch.hh
+END
+sorted.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/sorted.hh
+END
+support-values.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/support-values.hpp
+END
+cumulative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/cumulative.cpp
+END
+distinct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/distinct.cpp
+END
+array.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/array.hpp
+END
+support-values.hh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/support-values.hh
+END
+int-set-1.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/int-set-1.hpp
+END
+linear.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/linear.hh
+END
+int-set-2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/int-set-2.hpp
+END
+count.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/count.cpp
+END
+gcc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/gcc.cpp
+END
+sorted.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/sorted.cpp
+END
+circuit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/circuit.cpp
+END
+element.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/element.hh
+END
+cumulatives.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/cumulatives.hh
+END
+val-set.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/val-set.hpp
+END
+var-imp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/var-imp.hpp
+END
+rel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/rel.cpp
+END
+channel.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/channel.hh
+END
+extensional.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/extensional.cpp
+END
+nvalues.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/nvalues.hh
+END
+cumulative.hh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/cumulative.hh
+END
+branch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/branch.cpp
+END
+unary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/unary.cpp
+END
+linear-int.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/linear-int.cpp
+END
+unshare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/unshare.cpp
+END
+arithmetic.hh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/arithmetic.hh
+END
+limits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/limits.hpp
+END
+precede.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/precede.cpp
+END
+channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/channel.cpp
+END
+array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/array.cpp
+END
+task.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/task.hh
+END
+circuit.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/circuit.hh
+END
+bin-packing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/bin-packing.cpp
+END
+no-overlap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/no-overlap.cpp
+END
+propagator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/propagator.hpp
+END
+int-set.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/int-set.cpp
+END
+precede.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/precede.hh
+END
+sequence.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/sequence.hh
+END
+array-traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/array-traits.hpp
+END
+element.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/element.cpp
+END
+bool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/bool.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12614/gecode/tags/release-3.7.3/tools/flatzinc
+END
+fz.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/tools/flatzinc/fz.cpp
+END
+mzn-gecode.bat.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12614/gecode/tags/release-3.7.3/tools/flatzinc/mzn-gecode.bat.in
+END
+mzn-gecode.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12608/gecode/tags/release-3.7.3/tools/flatzinc/mzn-gecode.in
+END

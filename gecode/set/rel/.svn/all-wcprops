@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/set/rel
+END
+re-eq.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/set/rel/re-eq.hpp
+END
+re-subset.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/set/rel/re-subset.hpp
+END
+lq.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/set/rel/lq.hpp
+END
+nq.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/set/rel/nq.hpp
+END
+re-lq.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/set/rel/re-lq.hpp
+END
+nosubset.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/set/rel/nosubset.hpp
+END
+eq.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/set/rel/eq.hpp
+END
+subset.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/set/rel/subset.hpp
+END
+common.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/set/rel/common.hpp
+END

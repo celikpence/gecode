@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/bin-packing
+END
+propagate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/bin-packing/propagate.cpp
+END
+propagate.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/bin-packing/propagate.hpp
+END

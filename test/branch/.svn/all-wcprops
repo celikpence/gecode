@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/branch
+END
+int.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/branch/int.cpp
+END
+bool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/branch/bool.cpp
+END
+set.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/branch/set.cpp
+END

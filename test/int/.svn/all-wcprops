@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int
+END
+unary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/unary.cpp
+END
+mm-count.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/mm-count.cpp
+END
+mm-arithmetic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/mm-arithmetic.cpp
+END
+sorted.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/sorted.cpp
+END
+cumulatives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/cumulatives.cpp
+END
+circuit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/circuit.cpp
+END
+mm-bool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/mm-bool.cpp
+END
+unshare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/unshare.cpp
+END
+member.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/member.cpp
+END
+precede.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/precede.cpp
+END
+channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/channel.cpp
+END
+sequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/sequence.cpp
+END
+linear.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/linear.cpp
+END
+nvalues.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/nvalues.cpp
+END
+cumulative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/cumulative.cpp
+END
+dom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/dom.cpp
+END
+distinct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/distinct.cpp
+END
+basic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/basic.cpp
+END
+bin-packing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/bin-packing.cpp
+END
+no-overlap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/no-overlap.cpp
+END
+rel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/rel.cpp
+END
+exec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/exec.cpp
+END
+count.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/count.cpp
+END
+extensional.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/extensional.cpp
+END
+element.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/element.cpp
+END
+arithmetic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/arithmetic.cpp
+END
+mm-lin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/mm-lin.cpp
+END
+mm-rel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/mm-rel.cpp
+END
+bool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/bool.cpp
+END
+gcc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/test/int/gcc.cpp
+END

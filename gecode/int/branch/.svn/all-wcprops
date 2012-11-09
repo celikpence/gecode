@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/branch
+END
+select-values.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/branch/select-values.hpp
+END
+post-val-int.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/branch/post-val-int.hpp
+END
+post-val-bool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/branch/post-val-bool.hpp
+END
+select-val.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/branch/select-val.hpp
+END
+post-view-int.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/branch/post-view-int.cpp
+END
+post-view-bool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/branch/post-view-bool.cpp
+END
+post-view-int.bs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/branch/post-view-int.bs
+END
+post-view-bool.bs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/branch/post-view-bool.bs
+END
+select-view.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/int/branch/select-view.hpp
+END

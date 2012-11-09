@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel
+END
+lin-expr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/lin-expr.cpp
+END
+lin-rel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/lin-rel.cpp
+END
+lin-expr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/lin-expr.hpp
+END
+exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/exception.hpp
+END
+optimize.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/optimize.hpp
+END
+set-expr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/set-expr.cpp
+END
+lin-rel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/lin-rel.hpp
+END
+bool-expr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/bool-expr.cpp
+END
+matrix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/matrix.hpp
+END
+set-rel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/set-rel.cpp
+END
+set-expr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/set-expr.hpp
+END
+bool-expr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/bool-expr.hpp
+END
+reg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/reg.cpp
+END
+set-rel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/set-rel.hpp
+END
+reg.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/reg.hpp
+END
+arithmetic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12604/gecode/tags/release-3.7.3/gecode/minimodel/arithmetic.cpp
+END
