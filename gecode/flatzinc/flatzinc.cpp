@@ -690,6 +690,9 @@ namespace Gecode { namespace FlatZinc {
       sol = next_sol;
       if (printAll) {
         sol->print(out, p);
+        out << "% runtime: ";
+        Driver::stop(t_total,out);
+        out << endl;
         out << "----------" << std::endl;
       }
       if (--findSol==0)
@@ -699,7 +702,7 @@ namespace Gecode { namespace FlatZinc {
       sol->print(out, p);
       out << "% runtime: ";
       Driver::stop(t_total,out);
-			out << endl;
+      out << endl;
       out << "----------" << std::endl;
     }
     if (!se.stopped()) {
